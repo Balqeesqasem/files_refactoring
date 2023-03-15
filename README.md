@@ -6,4 +6,5 @@
 
  **You can run the code as following:**
 
-    ruby file_refactoring.rb {folder} {saving_path_dir}
+   ```ruby file_refactoring.rb {folder} {saving_path_dir}```
+   
